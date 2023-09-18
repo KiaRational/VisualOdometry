@@ -51,6 +51,8 @@ You can use the KITTI dataset or any other dataset following a similar structure
 ## Visualization
 
 The code includes visualization of the estimated camera poses in 3D space. You can customize the visualization parameters in the main function.
+first sequence 3d output
 ![fig1](https://github.com/KiaRational/VisualOdometry/blob/main/Figure_1.png)
-![fig1_html](https://github.com/KiaRational/VisualOdometry/blob/main/Figure_1.png)
+second sequence 3d output
+![fig2](https://github.com/KiaRational/VisualOdometry/blob/main/Figure_2.png)
 
